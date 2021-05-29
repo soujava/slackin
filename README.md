@@ -8,7 +8,7 @@
 
 Check out the [Demo](https://slackin-spzhjhzdnp.now.sh/) or read more about the [motivations and history](http://rauchg.com/slackin) behind Slackin.
 
-## Usage
+## How-to Use
 
 Set up [Now](https://zeit.co/now) on your device and run this command:
 
